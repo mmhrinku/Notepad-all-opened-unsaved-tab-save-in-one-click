@@ -2,7 +2,8 @@ import os
 from Npp import notepad, editor
 
 # Define the folder to save files
-output_folder = r"C:\Users\proze\OneDrive\Documents\notepad_output"
+# you must cnage your location for default folder whre your unsaved tabs will be saved  put your folder location
+output_folder = r"C:\Users\neo\OneDrive\Documents\notepad_output"
 
 # Create the folder if it doesn't exist
 if not os.path.exists(output_folder):
