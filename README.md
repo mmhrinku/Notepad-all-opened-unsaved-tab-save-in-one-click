@@ -1,4 +1,4 @@
-1. first edit the code save_unsave_tabs.py from github i shared .
+A. first edit the code save_unsave_tabs.py from github i shared .
    a. create folder anywhere you want to save your Notepas++ unsaved tab files to save
    
    b. On line 6 chnage the default location for save all unsaved tab [[  output_folder = r"C:\Users\neo\OneDrive\Documents\notepad_output" ]]
